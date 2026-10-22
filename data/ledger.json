@@ -1,0 +1,104 @@
+{
+ "start": {
+  "date": "2026-10-22",
+  "cash": 10000,
+  "spyPrice": 773.09,
+  "spyPriceDate": "2026-10-21"
+ },
+ "trades": [
+  {
+   "id": 1,
+   "date": "2026-10-22",
+   "t": "COWZ",
+   "side": "BUY",
+   "shares": 16.745744,
+   "price": 71.66,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Cash-flow core ETF; Accumulate, Stage 2, weekly up; to 12% ETF cap"
+  },
+  {
+   "id": 2,
+   "date": "2026-10-22",
+   "t": "MSFT",
+   "side": "BUY",
+   "shares": 0.958846,
+   "price": 521.46,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Strong entry: trend template passes, RS 75th pct; to 5% core cap"
+  },
+  {
+   "id": 3,
+   "date": "2026-10-22",
+   "t": "AMZN",
+   "side": "BUY",
+   "shares": 2.004169,
+   "price": 249.48,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Accumulate, Stage 2, weekly up; above 243.74 stop; to 5% core cap"
+  },
+  {
+   "id": 4,
+   "date": "2026-10-22",
+   "t": "LLY",
+   "side": "BUY",
+   "shares": 0.228878,
+   "price": 1310.74,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Strong entry: RS 96th pct, near 52-wk high; to 3% satellite cap"
+  },
+  {
+   "id": 5,
+   "date": "2026-10-22",
+   "t": "WMB",
+   "side": "BUY",
+   "shares": 4.2337,
+   "price": 70.86,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Accumulate, Stage 2; gas + on-site DC power; to 3% satellite cap"
+  },
+  {
+   "id": 6,
+   "date": "2026-10-22",
+   "t": "EQT",
+   "side": "BUY",
+   "shares": 5.495512,
+   "price": 54.59,
+   "pxDate": "Live quote 2026-10-22 3:30 PM ET",
+   "note": "Re-entry setup: back above 20/50-day, MACD up; to 3% satellite cap"
+  },
+  {
+   "id": 7,
+   "date": "2026-10-22",
+   "t": "NEE",
+   "side": "BUY",
+   "shares": 3.663004,
+   "price": 81.9,
+   "pxDate": "2026-10-22",
+   "note": "Re-entry setup above its 77.15 stop (Manager plan rule 2, Power & grid buy-back); to 3% satellite cap"
+  },
+  {
+   "id": 8,
+   "date": "2026-10-22",
+   "t": "ROK",
+   "side": "BUY",
+   "shares": 0.353882,
+   "price": 423.87,
+   "pxDate": "2026-10-22",
+   "note": "Hold, close above its 419.51 stop, weekly trend Mixed (rule 3 half-cap starter, Robotics & space)"
+  }
+ ],
+ "history": [
+  {
+   "close": "2026-10-21",
+   "total": 10000,
+   "spy": 10000.0,
+   "cash": 10000
+  },
+  {
+   "close": "2026-10-22",
+   "total": 10001.99,
+   "spy": 9881.9,
+   "cash": 6450.0
+  }
+ ]
+}

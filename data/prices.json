@@ -1,0 +1,380 @@
+{
+ "CEG": {
+  "price": 255.21,
+  "date": "2026-10-22",
+  "hi52": 406.04,
+  "hiCalc": 406.04,
+  "ma200": 282.31,
+  "n": 251,
+  "name": "Constellation Energy Corporation"
+ },
+ "VST": {
+  "price": 140.83,
+  "date": "2026-10-22",
+  "hi52": 203.66,
+  "hiCalc": 203.66,
+  "ma200": 154.27,
+  "n": 251,
+  "name": "Vistra Corp."
+ },
+ "NEE": {
+  "price": 81.9,
+  "date": "2026-10-22",
+  "hi52": 98.75,
+  "hiCalc": 98.75,
+  "ma200": 87.26,
+  "n": 251,
+  "name": "NextEra Energy, Inc."
+ },
+ "GEV": {
+  "price": 827.42,
+  "date": "2026-10-22",
+  "hi52": 1195.94,
+  "hiCalc": 1195.94,
+  "ma200": 937.94,
+  "n": 251,
+  "name": "GE Vernova Inc."
+ },
+ "ETN": {
+  "price": 368.99,
+  "date": "2026-10-22",
+  "hi52": 478.0,
+  "hiCalc": 478.0,
+  "ma200": 395.34,
+  "n": 251,
+  "name": "Eaton Corporation plc"
+ },
+ "PWR": {
+  "price": 552.44,
+  "date": "2026-10-22",
+  "hi52": 788.75,
+  "hiCalc": 788.75,
+  "ma200": 621.41,
+  "n": 251,
+  "name": "Quanta Services, Inc."
+ },
+ "EME": {
+  "price": 660.41,
+  "date": "2026-10-22",
+  "hi52": 951.96,
+  "hiCalc": 951.96,
+  "ma200": 781.43,
+  "n": 251,
+  "name": "EMCOR Group, Inc."
+ },
+ "FIX": {
+  "price": 1279.37,
+  "date": "2026-10-22",
+  "hi52": 2073.99,
+  "hiCalc": 2073.99,
+  "ma200": 1598.49,
+  "n": 251,
+  "name": "Comfort Systems USA, Inc."
+ },
+ "VRT": {
+  "price": 195.59,
+  "date": "2026-10-22",
+  "hi52": 379.94,
+  "hiCalc": 379.93,
+  "ma200": 268.96,
+  "n": 251,
+  "name": "Vertiv Holdings Co"
+ },
+ "NVDA": {
+  "price": 212.21,
+  "date": "2026-10-22",
+  "hi52": 243.37,
+  "hiCalc": 243.37,
+  "ma200": 203.56,
+  "n": 251,
+  "name": "NVIDIA Corporation"
+ },
+ "TSM": {
+  "price": 412.35,
+  "date": "2026-10-22",
+  "hi52": 487.47,
+  "hiCalc": 487.47,
+  "ma200": 397.13,
+  "n": 251,
+  "name": "Taiwan Semiconductor Manufacturing Company Limited"
+ },
+ "MU": {
+  "price": 856.49,
+  "date": "2026-10-22",
+  "hi52": 1255.0,
+  "hiCalc": 1255.0,
+  "ma200": 729.41,
+  "n": 251,
+  "name": "Micron Technology, Inc."
+ },
+ "AVGO": {
+  "price": 323.24,
+  "date": "2026-10-22",
+  "hi52": 495.0,
+  "hiCalc": 495.0,
+  "ma200": 367.93,
+  "n": 251,
+  "name": "Broadcom Inc."
+ },
+ "MSFT": {
+  "price": 521.08,
+  "date": "2026-10-22",
+  "hi52": 553.72,
+  "hiCalc": 553.72,
+  "ma200": 436.31,
+  "n": 251,
+  "name": "Microsoft Corporation"
+ },
+ "GOOGL": {
+  "price": 324.22,
+  "date": "2026-10-22",
+  "hi52": 408.61,
+  "hiCalc": 408.61,
+  "ma200": 341.32,
+  "n": 251,
+  "name": "Alphabet Inc."
+ },
+ "AMZN": {
+  "price": 250.38,
+  "date": "2026-10-22",
+  "hi52": 287.2,
+  "hiCalc": 287.2,
+  "ma200": 243.26,
+  "n": 251,
+  "name": "Amazon.com, Inc."
+ },
+ "EQIX": {
+  "price": 952.62,
+  "date": "2026-10-22",
+  "hi52": 1128.68,
+  "hiCalc": 1128.68,
+  "ma200": 1004.55,
+  "n": 251,
+  "name": "Equinix, Inc."
+ },
+ "DLR": {
+  "price": 170.94,
+  "date": "2026-10-22",
+  "hi52": 208.14,
+  "hiCalc": 208.14,
+  "ma200": 182.7,
+  "n": 251,
+  "name": "Digital Realty Trust, Inc."
+ },
+ "SPCX": {
+  "price": 144.75,
+  "date": "2026-10-22",
+  "hi52": 225.64,
+  "hiCalc": 225.64,
+  "ma200": 145.81,
+  "n": 92,
+  "name": "Space Exploration Technologies Corp."
+ },
+ "TSLA": {
+  "price": 374.58,
+  "date": "2026-10-22",
+  "hi52": 498.83,
+  "hiCalc": 498.83,
+  "ma200": 386.64,
+  "n": 251,
+  "name": "Tesla, Inc."
+ },
+ "ROK": {
+  "price": 423.87,
+  "date": "2026-10-22",
+  "hi52": 497.36,
+  "hiCalc": 497.36,
+  "ma200": 426.29,
+  "n": 251,
+  "name": "Rockwell Automation, Inc."
+ },
+ "SYM": {
+  "price": 40.36,
+  "date": "2026-10-22",
+  "hi52": 87.88,
+  "hiCalc": 87.88,
+  "ma200": 49.04,
+  "n": 251,
+  "name": "Symbotic Inc."
+ },
+ "CCJ": {
+  "price": 78.93,
+  "date": "2026-10-22",
+  "hi52": 135.24,
+  "hiCalc": 135.24,
+  "ma200": 105.1,
+  "n": 251,
+  "name": "Cameco Corporation"
+ },
+ "FCX": {
+  "price": 64.59,
+  "date": "2026-10-22",
+  "hi52": 80.24,
+  "hiCalc": 80.24,
+  "ma200": 64.98,
+  "n": 251,
+  "name": "Freeport-McMoRan Inc."
+ },
+ "EQT": {
+  "price": 54.67,
+  "date": "2026-10-22",
+  "hi52": 68.24,
+  "hiCalc": 68.24,
+  "ma200": 55.47,
+  "n": 251,
+  "name": "EQT Corporation"
+ },
+ "WMB": {
+  "price": 70.63,
+  "date": "2026-10-22",
+  "hi52": 80.08,
+  "hiCalc": 80.08,
+  "ma200": 72.03,
+  "n": 251,
+  "name": "The Williams Companies, Inc."
+ },
+ "LLY": {
+  "price": 1306.69,
+  "date": "2026-10-22",
+  "hi52": 1321.21,
+  "hiCalc": 1321.21,
+  "ma200": 1084.11,
+  "n": 251,
+  "name": "Eli Lilly and Company"
+ },
+ "CRWD": {
+  "price": 237.94,
+  "date": "2026-10-22",
+  "hi52": 286.99,
+  "hiCalc": 286.99,
+  "ma200": 162.93,
+  "n": 251,
+  "name": "CrowdStrike Holdings, Inc."
+ },
+ "RIOT": {
+  "price": 12.89,
+  "date": "2026-10-22",
+  "hi52": 30.32,
+  "hiCalc": 30.32,
+  "ma200": 19.49,
+  "n": 251,
+  "name": "Riot Platforms, Inc."
+ },
+ "IREN": {
+  "price": 25.51,
+  "date": "2026-10-22",
+  "hi52": 76.87,
+  "hiCalc": 76.87,
+  "ma200": 45.03,
+  "n": 251,
+  "name": "IREN Limited"
+ },
+ "CIFR": {
+  "price": 8.32,
+  "date": "2026-10-22",
+  "hi52": 30.14,
+  "hiCalc": 30.14,
+  "ma200": 18.02,
+  "n": 251,
+  "name": "Cipher Digital Inc."
+ },
+ "CRWV": {
+  "price": 55.6,
+  "date": "2026-10-22",
+  "hi52": 141.79,
+  "hiCalc": 141.79,
+  "ma200": 92.11,
+  "n": 251,
+  "name": "CoreWeave, Inc."
+ },
+ "OKLO": {
+  "price": 27.01,
+  "date": "2026-10-22",
+  "hi52": 152.06,
+  "hiCalc": 152.06,
+  "ma200": 56.04,
+  "n": 251,
+  "name": "Oklo Inc."
+ },
+ "RUN": {
+  "price": 7.7,
+  "date": "2026-10-22",
+  "hi52": 21.95,
+  "hiCalc": 21.95,
+  "ma200": 12.75,
+  "n": 251,
+  "name": "Sunrun Inc."
+ },
+ "IBIT": {
+  "price": 46.06,
+  "date": "2026-10-22",
+  "hi52": 65.97,
+  "hiCalc": 65.97,
+  "ma200": 41.7,
+  "n": 251,
+  "name": "iShares Bitcoin Trust ETF"
+ },
+ "COWZ": {
+  "price": 71.78,
+  "date": "2026-10-22",
+  "hi52": 72.52,
+  "hiCalc": 72.52,
+  "ma200": 65.17,
+  "n": 251,
+  "name": "Pacer US Cash Cows 100 ETF"
+ },
+ "GRID": {
+  "price": 163.19,
+  "date": "2026-10-22",
+  "hi52": 199.99,
+  "hiCalc": 199.99,
+  "ma200": 178.43,
+  "n": 251,
+  "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund"
+ },
+ "SMH": {
+  "price": 523.35,
+  "date": "2026-10-22",
+  "hi52": 671.83,
+  "hiCalc": 671.83,
+  "ma200": 514.73,
+  "n": 251,
+  "name": "VanEck Semiconductor ETF"
+ },
+ "BOTZ": {
+  "price": 32.68,
+  "date": "2026-10-22",
+  "hi52": 41.71,
+  "hiCalc": 41.71,
+  "ma200": 36.74,
+  "n": 251,
+  "name": "Global X Robotics & Artificial Intelligence ETF"
+ },
+ "XLU": {
+  "price": 42.87,
+  "date": "2026-10-22",
+  "hi52": 47.8,
+  "hiCalc": 47.8,
+  "ma200": 44.29,
+  "n": 251,
+  "name": "State Street Utilities Select Sector SPDR ETF"
+ },
+ "URA": {
+  "price": 34.09,
+  "date": "2026-10-22",
+  "hi52": 62.28,
+  "hiCalc": 62.28,
+  "ma200": 47.58,
+  "n": 251,
+  "name": "Global X Uranium ETF"
+ },
+ "SPY": {
+  "price": 763.96,
+  "date": "2026-10-22",
+  "hi52": 781.62,
+  "hiCalc": 781.62,
+  "ma200": 726.65,
+  "n": 251,
+  "name": "State Street SPDR S&P 500 ETF Trust"
+ }
+}

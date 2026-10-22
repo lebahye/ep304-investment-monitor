@@ -1,0 +1,19 @@
+entrypoint = "main.py"
+modules = ["python-3.11"]
+
+# Run button: install deps, then start the web view (refreshes data on start if stale).
+run = "pip install -q -r requirements.txt && python main.py"
+
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[deployment]
+run = ["sh", "-c", "pip install -q -r requirements.txt && python main.py"]
+deploymentTarget = "cloudrun"
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix"]
